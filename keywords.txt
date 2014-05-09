@@ -1,0 +1,15 @@
+Arducontrol KEYWORD1
+GetInt  KEYWORD2
+GetLong KEYWORD2
+GetDouble   KEYWORD2
+GetString   KEYWORD2
+GetBoolean  KEYWORD2
+AddCmd  KEYWORD2
+StartCmd    KEYWORD2
+SendInt KEYWORD2
+SendLong    KEYWORD2
+SendDouble  KEYWORD2
+SendString  KEYWORD2
+SendBoolean KEYWORD2
+EndCmd  KEYWORD2
+ReadSerial  KEYWORD2
